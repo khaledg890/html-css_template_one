@@ -436,8 +436,7 @@ html {
 		font-size: 15px;
 	}
 	.features .container div {
-		margin-right: 0;
-
+		margin-right: 0 !important;
 	}
 }
 @media (min-width: 992px) {
