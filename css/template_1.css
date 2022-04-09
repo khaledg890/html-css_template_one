@@ -392,14 +392,14 @@ html {
     font-size: 3.6rem;
     text-align: center;
 	}
-	.contact .text > h3 {
-		font-size: 15px;
-	}
-		.contact .text > a {
-		font-size: 15px;
-	}
 	.contact .social > p {
 		font-size: 11px;
+	}
+		.contact .text > a {
+		font-size: 18px !important;
+	}
+	.contact .text > h3 {
+		font-size: 15px;
 	}
 }
 
