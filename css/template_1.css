@@ -36,6 +36,7 @@ html {
 	}
 	.features .container div {
 		flex: 1;
+		margin-right: 0;
 	}
 }
 
