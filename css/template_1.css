@@ -96,6 +96,7 @@ html {
 	border-radius: 10px;
 	display: none;
 	transition: 0.3s;
+	z-index: 2;
 }
 .header .links ul::before {
 	content: "";
