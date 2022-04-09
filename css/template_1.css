@@ -395,8 +395,11 @@ html {
 	.contact .social > p {
 		font-size: 11px;
 	}
-		.contact .text > a {
-		font-size: 18px !important;
+	.contact .text {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
 	}
 	.contact .text > h3 {
 		font-size: 15px;
