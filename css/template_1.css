@@ -34,6 +34,8 @@ html {
 	.container {
 		width: 970px;
 	}
+	.features .container div {
+		flex: 1;
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
@@ -163,7 +165,6 @@ html {
 	flex-flow: row wrap;
 }
 .features .container div {
-	flex: 1;
 	margin-right: 50px;
 	margin-bottom: 30px;
 	text-align: center;
@@ -432,4 +433,6 @@ html {
 	.contact .social > p {
 		font-size: 15px;
 	}
+	
 }
+@media (min-width: 992px)
