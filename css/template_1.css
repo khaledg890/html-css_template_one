@@ -437,4 +437,9 @@ html {
 	}
 	
 }
-@media (min-width: 992px)
+@media (min-width: 992px) {
+	.features .container div {
+		flex: 1;
+		margin-right: 0;
+	}
+}
